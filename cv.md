@@ -1,4 +1,4 @@
-* ![My photo](https://disk.yandex.ru/i/VEBeZMFi0HpjRg)
+* ![My photo](https://avatars.githubusercontent.com/u/138355981?s=400&u=b8624ed82d74dd2c8d35098bb0ac6c129234a442&v=4)
 
 * **Name**:
 Mikhaylets Ilya Viktorovich
