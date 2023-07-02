@@ -1,11 +1,11 @@
-*![My photo](/my_photo.jpg)
+* ![My photo](/my_photo.jpg)
 
 * Name:
-    * Mikhaylets Ilya Viktorovich
+Mikhaylets Ilya Viktorovich
 
 
 * Contacts:
-    * Mail: ky4web@yandex.ru, telegram: anykey_0, discord: ky4webjs
+Mail: ky4web@yandex.ru, telegram: anykey_0, discord: ky4webjs
 
 
 * code:
