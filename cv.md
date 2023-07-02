@@ -1,19 +1,19 @@
-* ![My photo](/my_photo.jpg)
+* ![My photo](https://disk.yandex.ru/i/ONhBK2hw-EeWNg)
 
-* Name:
+* **Name**:
 Mikhaylets Ilya Viktorovich
 
 
-* Contacts:
+* **Contacts**:
 Mail: ky4web@yandex.ru, telegram: anykey_0, discord: ky4webjs
 
 
-* code:
+* **Code**:
 ```javascript
 function multiply(a, b) {
     return a * b
 };
 ```
 
-* projects:
-https://github.com/ky4webjs/rsschool-cv/blob/gh-pages/cv.md
+* **projects**:
+[CV]https://github.com/ky4webjs/rsschool-cv/blob/gh-pages/cv.md
