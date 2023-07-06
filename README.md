@@ -1,1 +1,1 @@
-https://ky4webjs.github.io/rsschool-cv/cv
+https://ky4webjs.github.io/rsschool-cv/
