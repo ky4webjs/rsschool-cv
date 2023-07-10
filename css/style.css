@@ -10,3 +10,18 @@
     flex-direction: column;
     justify-content: space-between;
   }
+
+  .header-avatar {
+    display: flex;
+    height: 250px;
+    justify-content: left;
+    width: 250px;
+    margin: 50px auto;
+    position: relative;
+    left: -100px;
+    /* z-index: 2; */
+  }
+.header-column {
+    width: 40%;
+    padding: 0 50px;
+}
